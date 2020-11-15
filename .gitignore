@@ -1,0 +1,6 @@
+# Node modules
+node_modules
+
+# Generated code
+/main.js
+/main.js.map
